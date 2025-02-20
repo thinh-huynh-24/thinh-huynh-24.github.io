@@ -8,7 +8,7 @@ html {
   font-style: normal;
   background-color: #ff9e0b;
   padding: 0 200px 0 200px;
-  align-self: center;
+
 }
   
   h1, h2, h3{
@@ -36,12 +36,7 @@ html {
     text-align: center;
   }
   body {
-    /* width: 800px; */
-    margin: 0 auto;
     background-color: white;
-    /* border-left: 5px solid #ff9e0b;
-    border-right: 5px solid #ff9e0b; */
-
   }
   button{
     display: block;
@@ -70,7 +65,6 @@ html {
     font-size: 200%;
     background-color: #ff9e0b;
     transform:perspective(50px) rotateY(-4deg);
-    border-bottom: 1rem solid white;
   }
 
   .in{
@@ -80,7 +74,6 @@ html {
     margin: 0%;
     transform:perspective(30px) rotateY(4deg);
     text-align: center;
-    border-bottom: 1rem solid white;
   }
 
   div a {
@@ -88,6 +81,5 @@ html {
     font-weight: bold;
     color: rgb(0, 0, 0);
     text-decoration: none;
-    border-bottom: 1rem solid white;
   }
   
