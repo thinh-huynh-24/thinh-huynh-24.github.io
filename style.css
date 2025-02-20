@@ -79,7 +79,6 @@ html {
     padding: 0%;
     margin: 0%;
     transform:perspective(30px) rotateY(4deg);
-    align: center;
     text-align: center;
     border-bottom: 1rem solid white;
   }
